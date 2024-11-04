@@ -4,7 +4,6 @@ This software is created to illustrate the display of Hello World! The common st
 
 The purpose of this software is to display Hello World! to the user and doing so through the use of the python language. This is the first step many programmers take and I want to illustrate my growth from this point forward as the first program I created in my journey.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](https://www.youtube.com/watch?v=_wqAwKmwbMY)
 
