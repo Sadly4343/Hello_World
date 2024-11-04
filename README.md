@@ -6,7 +6,7 @@ The purpose of this software is to display Hello World! to the user and doing so
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=_wqAwKmwbMY)
 
 # Development Environment
 
